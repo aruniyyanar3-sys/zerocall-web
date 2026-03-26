@@ -1,4 +1,3 @@
-# zerocall-web
 # ZeroCall AI - Frontend
 
 Web-based Voice IVR Interface.
